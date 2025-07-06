@@ -88,7 +88,7 @@ git clone https://github.com/YOUR_USERNAME/snake-game.git
 #### Update `LICENSE`
 ```text
 # Change this line in LICENSE:
-Copyright (c) 2024 Your Name
+Copyright (c) 2025 Your Name
 ```
 
 ### 5. Enable GitHub Features
