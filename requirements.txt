@@ -1,0 +1,13 @@
+# Snake Game - Python Requirements
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python version requirement
+# python>=3.6
+
+# Standard library modules used:
+# - curses (terminal UI)
+# - random (random number generation) 
+# - sys (system parameters)
+
+# No external packages needed! 
